@@ -1,4 +1,4 @@
-# risc-v-skill
+# RISC-V Skill
 
 RISC-V Vector (RVV) C intrinsics skill, published via [skills.sh](https://skills.sh).
 
