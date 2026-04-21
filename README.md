@@ -1,4 +1,4 @@
-# riscv-skill
+# risc-v-skill
 
 RISC-V Vector (RVV) C intrinsics skill, published via [skills.sh](https://skills.sh).
 
@@ -7,7 +7,7 @@ RISC-V Vector (RVV) C intrinsics skill, published via [skills.sh](https://skills
 Install it into your agent with the [skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash
-npx skills add alexfdez1010/riscv-skill
+npx skills add alexfdez1010/risc-v-skill
 ```
 
 Works with Claude Code and other supported agents.
